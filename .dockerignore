@@ -1,0 +1,23 @@
+# Git
+.git/
+.gitignore
+
+# Documentation
+README.md
+
+# Local launch script
+frontend/start.sh
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*~
+
+# Editor settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
